@@ -1,6 +1,6 @@
 # Haohao OI Problem
 
-我的原创 OI (Olympiad in Informatics) 题目，部分测试数据公开。
+我的原创 OI (Olympiad in Informatics) 题目，部分测试数据公开，部分题目有题解资源。
 
 ## 目前已有题目
 
